@@ -10,4 +10,7 @@ describe('Number', function () {
     it('should return multiply when two number  multiply', function () {
         assert.deepStrictEqual(math.multiply(1, 5), 5);
     });
+    it('should return division when two number  division', function () {
+        assert.deepStrictEqual(math.division(4, 2), 2);
+    });
 });
