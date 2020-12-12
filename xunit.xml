@@ -1,0 +1,5 @@
+<testExecutions version="1">
+<file path="test/math.test.js">
+<testCase name="Number: should return sun when add two number " duration="0"/>
+</file>
+</testExecutions>
