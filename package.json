@@ -1,0 +1,25 @@
+{
+  "name": "sonarqube-test-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yu-Jack/sonarqube-test-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yu-Jack/sonarqube-test-demo/issues"
+  },
+  "homepage": "https://github.com/Yu-Jack/sonarqube-test-demo#readme",
+  "devDependencies": {
+    "mocha": "^8.2.1"
+  }
+}
